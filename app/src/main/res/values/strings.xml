@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Heart Rate Tracker</string>
+    <string name="textViewPulseLabel">Pulse</string>
+    <string name="textViewRangeLabel">Range:</string>
+    <string name="textViewPulse">Pulse here</string>
+    <string name="textViewRange">Range here</string>
 </resources>
